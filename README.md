@@ -2,7 +2,7 @@
 
 | Idioma - Language |
 | ----------------  |
-| <a href="./readme-pt.md">Português - Portuguese</a>
+| <a href="./README-PT.md">Português - Portuguese</a>
 | <a href="#start">Inglês - English</a>
 
 <div id="start">
