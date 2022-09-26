@@ -2,7 +2,7 @@
 
 | Idioma - Language |
 | ----------------  |
-| <a href="./README-PT.md">Português - Portuguese</a>
+| <a href="https://github.com/jefferson-developer-it/go-cmd/blob/main/README-PT.md">Português - Portuguese</a>
 | <a href="#start">Inglês - English</a>
 
 <div id="start">
